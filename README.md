@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 I'm a Computer Science student at President University<br>🌱 I’m currently learning about RAG & AI Agents<br>⚡ Fun fact: I often find myself think about the random things
 
 
 ## 🌐 Socials:
