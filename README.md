@@ -3,7 +3,11 @@
 
 <h3 align="left">Tech Stacks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,typescript,php,mysql,dart,tensorflow,pytorch,bootstrap,react,nextjs,laravel,flutter,git,github,firebase,docker,googlecloud,azure,vscode&perline=12&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,typescript,php,mysql,dart,tensorflow,pytorch,bootstrap,react,nextjs,laravel,flutter,git,github,firebase,docker,googlecloud,azure,vscode&perline=12&theme=light" />
+  </a>
+</p>
 
 <h3 align="left">GitHub Stats:</h3>
 
